@@ -67,5 +67,5 @@ $ vim ./dfsa
 ```
 
 ### Task List
--[x] Write the 
--[ ] read the
+- [x] Write the 
+- [ ] read the
