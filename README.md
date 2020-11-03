@@ -43,4 +43,29 @@ _이텔릭체_
 
 ## image
 
-![alt text](image.jpg)
+![alt text](img.jpg)
+
+
+### table
+
+| Syntax | Description |
+| ------ | ----------- |
+| a      | b           |
+| c      | d           |
+
+```c
+#include <stdio>
+int main(){
+
+
+
+}
+```
+
+```bash
+$ vim ./dfsa
+```
+
+### Task List
+-[x] Write the 
+-[ ] read the
